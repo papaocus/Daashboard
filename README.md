@@ -59,4 +59,7 @@ Navigate to the directory where the Python file is saved.
 Use the following command to run the Streamlit application: streamlit run app.py
 Streamlit will start a local development server and launch the application in your default web browser.
 
-
+![Screenshot 2023-07-07 142936](https://github.com/papaocus/Daashboard/assets/115074006/fb9d8274-de84-460c-92b8-1d2ab5821d01)
+![Screenshot 2023-07-07 142957](https://github.com/papaocus/Daashboard/assets/115074006/223d8b18-94ae-46d2-abf3-a47a08d07175)
+![Screenshot 2023-07-07 143026](https://github.com/papaocus/Daashboard/assets/115074006/a7416298-e4bd-44db-a205-32c3af92b582)
+![Screenshot 2023-07-07 143056](https://github.com/papaocus/Daashboard/assets/115074006/838088a5-f22b-40b5-94da-5b17e8de500c)
