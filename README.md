@@ -35,3 +35,26 @@ People count over time is plotted as a line chart and displayed.
 Outliers are displayed in a DataFrame using st.dataframe.
 The distribution of people count is plotted as a histogram and displayed.
 People count by floor and by department are plotted as bar charts and displayed.
+
+
+Install the necessary packages:
+
+Make sure you have Python installed on your system.
+Open a terminal or command prompt.
+Use the following command to install Streamlit, pandas, and matplotlib: pip install streamlit pandas matplotlib
+Create a new Python file:
+
+Open Visual Studio.
+Create a new Python file and give it a name (e.g., app.py).
+Copy and paste the code into the Python file:
+
+Copy the provided code and paste it into the newly created Python file in Visual Studio.
+Save the file:
+
+Save the Python file.
+Run the Streamlit application:
+
+Open a terminal or command prompt.
+Navigate to the directory where the Python file is saved.
+Use the following command to run the Streamlit application: streamlit run app.py
+Streamlit will start a local development server and launch the application in your default web browser.
