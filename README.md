@@ -58,3 +58,6 @@ Open a terminal or command prompt.
 Navigate to the directory where the Python file is saved.
 Use the following command to run the Streamlit application: streamlit run app.py
 Streamlit will start a local development server and launch the application in your default web browser.
+
+C:\Users\Danish private\OneDrive\Desktop\Screenshot 2023-07-07 142936.jpg
+
